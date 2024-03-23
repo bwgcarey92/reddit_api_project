@@ -3,7 +3,7 @@ import Card from './Card';
 
 export default function Post() {
     return (
-        <div>
+        <div className='post-container'>
             <Card />
         </div>
     )
